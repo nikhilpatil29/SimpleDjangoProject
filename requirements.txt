@@ -1,0 +1,7 @@
+codegen==1.0
+Django==2.1.1
+mysql-connector==2.1.6
+mysqlclient==1.3.13
+patterns==0.3
+psycopg2==2.7.4
+pytz==2018.5
